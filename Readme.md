@@ -163,3 +163,7 @@ En este proyecto, se utilizan expresiones regulares (regex) para validar diferen
 - La base de datos H2 se utiliza solo para desarrollo y pruebas.
 - Los tokens JWT se generan y validan utilizando la librería `io.jsonwebtoken`.
 - Asegúrate de proteger los endpoints sensibles utilizando Spring Security.
+
+
+## Presentación Personal
+Mi nombre es [Bryam Xavier Chuchuca Guzman], y estoy en la materia de Aplicaciones Seguras. En este proyecto, desarrollé un servicio de autenticación utilizando Spring Boot y Spring Security. Implementé la generación de tokens JWT para la autenticación de usuarios y validación de expresiones regulares para la verificación de datos de entrada. Este proyecto me permitió explorar el uso de Spring Security y JWT para la protección de servicios web y la implementación de mecanismos de autenticación seguros.
