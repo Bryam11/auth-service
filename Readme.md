@@ -146,6 +146,18 @@ mvn spring-boot:run
 
 Esto iniciará el servidor en el puerto configurado (por defecto, 8080).
 
+
+## Uso de Expresiones Regulares (Regex)
+
+En este proyecto, se utilizan expresiones regulares (regex) para validar diferentes tipos de entradas de usuario. Las expresiones regulares son patrones utilizados para buscar y manipular texto basado en reglas específicas. Son una herramienta poderosa para la validación de datos, ya que permiten definir criterios precisos y complejos de manera concisa.
+
+### Importancia de las Expresiones Regulares
+
+- **Validación de Datos**: Las regex permiten validar entradas de usuario de manera eficiente, asegurando que los datos cumplan con un formato específico antes de ser procesados.
+- **Seguridad**: Ayudan a prevenir la inyección de datos maliciosos al validar y filtrar entradas.
+- **Flexibilidad**: Pueden ser utilizadas para una amplia variedad de validaciones, desde simples verificaciones de formato hasta complejas reglas de negocio.
+
+
 ## Notas
 
 - La base de datos H2 se utiliza solo para desarrollo y pruebas.
